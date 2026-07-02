@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "_id": "5mn1ouyrg",
+      "createdAt": "2026-07-01T08:37:22.843Z",
+      "username": "Nanmozhi T",
+      "email": "nanmozhitamilarasan@gmail.com",
+      "password": "$2a$10$UWl8mT/Y.LSY55Yf4LBXE.dW0SD5MAg3Fg9K1.vAovfc7sZ20A43u",
+      "role": "user"
+    }
+  ],
+  "customers": [],
+  "predictions": [],
+  "reports": [
+    {
+      "_id": "wegblzmn8",
+      "createdAt": "2026-07-01T08:37:34.727Z",
+      "title": "Q2 Telecom Churn Executive Summary",
+      "description": "A detailed summary of churn rates across contracts and payment profiles.",
+      "fileType": "PDF",
+      "filePath": "/reports/q2_churn_executive_summary.pdf",
+      "generatedBy": "system"
+    },
+    {
+      "_id": "equ55ubqx",
+      "createdAt": "2026-07-01T08:37:34.732Z",
+      "title": "High-Risk Customer Target Campaign List",
+      "description": "Export of all customers with a churn probability higher than 75%.",
+      "fileType": "CSV",
+      "filePath": "/api/reports/download/high_risk_list",
+      "generatedBy": "system"
+    },
+    {
+      "_id": "4hy015xfm",
+      "createdAt": "2026-07-01T08:37:34.738Z",
+      "title": "ML Model Performance & Feature Importance Log",
+      "description": "Model metrics including ROC-AUC curve scores, precision, and recall.",
+      "fileType": "PDF",
+      "filePath": "/reports/ml_model_performance.pdf",
+      "generatedBy": "system"
+    }
+  ]
+}
