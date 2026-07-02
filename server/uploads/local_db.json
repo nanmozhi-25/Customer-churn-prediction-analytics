@@ -10,7 +10,45 @@
     }
   ],
   "customers": [],
-  "predictions": [],
+  "predictions": [
+    {
+      "_id": "py9jjklsf",
+      "createdAt": "2026-07-02T09:56:47.174Z",
+      "customerId": "CUST_TEMP_806",
+      "inputs": {
+        "customerId": "",
+        "gender": "Male",
+        "seniorCitizen": 0,
+        "partner": "No",
+        "dependents": "No",
+        "tenure": 12,
+        "phoneService": "Yes",
+        "multipleLines": "No",
+        "internetService": "DSL",
+        "onlineSecurity": "No",
+        "onlineBackup": "No",
+        "deviceProtection": "No",
+        "techSupport": "No",
+        "streamingTV": "No",
+        "streamingMovies": "No",
+        "contract": "Month-to-month",
+        "paperlessBilling": "Yes",
+        "paymentMethod": "Electronic check",
+        "monthlyCharges": 65,
+        "totalCharges": 780
+      },
+      "churnPrediction": "Yes",
+      "probability": 0.98,
+      "riskLevel": "High",
+      "riskFactors": [
+        "Month-to-month Contract",
+        "Short customer tenure (7-18 months)",
+        "No online security service"
+      ],
+      "modelUsed": "Heuristic Rules Engine (Fallback)",
+      "performedBy": "Nanmozhi T"
+    }
+  ],
   "reports": [
     {
       "_id": "wegblzmn8",

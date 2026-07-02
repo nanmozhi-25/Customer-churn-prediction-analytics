@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction & Analytics Platform
+# 📊 AI-Powered Customer Churn Prediction & Analytics
 
 An end-to-end Telecom Customer Churn Prediction and Analytics Platform built using React, Node.js, Python, FastAPI, MongoDB, and Power BI.
 

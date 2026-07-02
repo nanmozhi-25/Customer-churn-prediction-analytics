@@ -41,7 +41,7 @@ const Sidebar = () => {
         </div>
         <div className={styles.logoText}>
           <span>ChurnPredict</span>
-          <span className={styles.logoSub}>AI Telecom</span>
+          <span className={styles.logoSub}>Customer Churn Analytics</span>
         </div>
       </div>
 
